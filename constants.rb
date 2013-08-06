@@ -1,0 +1,20 @@
+Connections = []
+Players = []
+Tasks = []
+NextTaskId = '000001'
+Admin = Player.new
+Admin.owner = Admin
+NUM = 0
+STR = 1
+LIST = 2
+OBJ = 3
+ERR = 4
+RGXP = 5
+HASH = 6
+RANGE = 7
+BOOL = 8
+NULL = 9
+
+AmbiguousMatch = AMBIG_MATCH
+FailedMatch = FAIL_MATCH
+HighInt = 2 ** 100000
