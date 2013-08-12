@@ -1,5 +1,5 @@
 # WYSIMOO
-# A learnig project by Julian Shepherd to recreate MOO within Ruby
+A learnig project by Julian Shepherd to recreate MOO within Ruby
 
 
 # Notes
